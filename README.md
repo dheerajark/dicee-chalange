@@ -3,7 +3,7 @@
 * HTML
 * css
 * JavaScript
-clone this repositories
-''' bash
+# clone this repositories
+'''
 https://github.com/dheerajark/dicee-chalange.git
 '''
