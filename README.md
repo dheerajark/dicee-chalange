@@ -6,6 +6,6 @@
 1. Clone the repository:
 
    ```
-   git clone https://github.com/dheerajark/dicee-challenge.git
+   https://github.com/dheerajark/dicee-chalange.git
    ```
 
