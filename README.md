@@ -3,7 +3,9 @@
 * HTML
 * css
 * JavaScript
-1. clone this repositories
-'''
-https://github.com/dheerajark/dicee-chalange.git
-'''
+1. Clone the repository:
+
+   ```
+   git clone https://github.com/dheerajark/dicee-challenge.git
+   ```
+
