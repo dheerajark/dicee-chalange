@@ -9,11 +9,11 @@ document.querySelector(".img2").setAttribute("src", "images/dice" + randomNumber
 var refresh = document.querySelector("h1");
 
 if (randomNumber1 > randomNumber2) {
-    refresh.textContent("Player 1 wins");
+    refresh.innerHTML = "Player 1 wins!";
 } else if (randomNumber1 < randomNumber2) {
-    refresh.textContent("Player 2 wins");
-} else if (randomNumber1 === randomNumber2){
-    refresh.textContent("Draw")
+    refresh.innerHTML = "Player 2 wins!";
+} else if (randomNumber1 === randomNumber2) {
+    refresh.innerHTML = "Draw"
 } else {
-    refresh.textContent("Refresh Me")
+    refresh.innerHTML = "Refresh Me"
 }
